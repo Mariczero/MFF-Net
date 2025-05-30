@@ -12,7 +12,7 @@
 
 ## code
 
-Partial implementation is available in the code folder.  
+Partial implementation is available in the [code](MFF-Net/code) folder.  
 
 ## Performance
 
