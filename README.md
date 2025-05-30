@@ -18,7 +18,7 @@ Partial implementation is available in the code folder.
 
 1. MMFlood
 
-![](.\picture\MMFlood_result.png)
+![](.\MMFlood\picture\MMFlood_result.png)
 
 2. The SAR Poyang Lake Water Body Sample Dataset
 
