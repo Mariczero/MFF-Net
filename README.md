@@ -18,20 +18,20 @@ Partial implementation is available in the code folder.
 
 1. MMFlood
 
-![](.\MFF-Net\picture\MMFlood_result.png)
+![](MFF-Net/picture/MMFlood_result.png)
 
 2. The SAR Poyang Lake Water Body Sample Dataset
 
-![](.\picture\poyanghu.png)
+![](MFF-Net/picture/poyanghu.png)
 
 3. Sen1Floods11
 
-![](.\picture\Sen1Floods11.png)
+![](MFF-Net/picture/Sen1Floods11.png)
 
 4. WHU Building Dataset
 
-![](.\picture\WUH.png)
+![](MFF-Net/picture/WUH.png)
 
 5. The ISPRS Vaihingen Dataset
 
-![](.\picture\ISPRS.png)
+![](MFF-Net/picture/ISPRS.png)
