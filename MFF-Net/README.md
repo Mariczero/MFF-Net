@@ -12,7 +12,7 @@
 
 ## code
 
-Partial implementation is available in the [`/code`](/code) folder.  
+Partial implementation is available in the code folder.  
 
 ## Performance
 
