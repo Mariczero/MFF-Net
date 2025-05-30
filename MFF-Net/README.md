@@ -4,11 +4,11 @@
 
 ## Data
 
-1. [MMFlood Dataset]([MMFlood: A Multimodal Dataset for Flood Delineation from Satellite Imagery | IEEE DataPort](https://ieee-dataport.org/documents/mmflood-multimodal-dataset-flood-delineation-satellite-imagery))
+1. [MMFlood Dataset](https://ieee-dataport.org/documents/mmflood-multimodal-dataset-flood-delineation-satellite-imagery)
 2. The SAR Poyang Lake Water Body Sample Dataset
-3. [Sen1Floods11]([cloudtostreet/Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11))
-4. [WHU Building Dataset]([study.rsgis.whu.edu.cn/pages/download/building_dataset.html](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html))
-5. [The ISPRS Vaihingen Dataset]([Benchmark on Semantic Labeling](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/default.aspx))
+3. [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11)
+4. [WHU Building Dataset](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)
+5. [The ISPRS Vaihingen Dataset](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/default.aspx)
 
 ## code
 
