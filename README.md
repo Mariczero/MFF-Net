@@ -26,7 +26,7 @@ Partial implementation is available in the [code](MFF-Net/code) folder.
 
 3. Sen1Floods11
 
-![](MFF-Net/picture/Sen1Floods11.png)
+![](MFF-Net/picture/Sen1Floods.png)
 
 4. WHU Building Dataset
 
