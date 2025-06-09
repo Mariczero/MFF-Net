@@ -13,6 +13,7 @@
 ## code
 
 Partial implementation is available in the [code](MFF-Net/code) folder.  
+The pre-trainws models is [here](https://pan.baidu.com/s/1LoKlidPuSxrItwNIKZWcjA?pwd=7k6b).
 
 ## Performance
 
